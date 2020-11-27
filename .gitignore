@@ -1,0 +1,18 @@
+﻿bin/
+obj/
+*.csv
+.vscode/
+
+# VS auto-generated solution files for project.json solutions
+*.xproj
+*.xproj.user
+*.suo
+
+# VS auto-generated files for csproj files
+*.csproj.user
+
+# Visual Studio IDE directory
+.vs/
+
+# VSCode directories that are not at the repository root
+/**/.vscode/
